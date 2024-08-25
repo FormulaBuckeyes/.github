@@ -68,11 +68,8 @@ graph TD
     A[Telemetry Car Firmware] --> B[Telemetry Receiver Firmware]
     B --> C[Serial to Redis]
     C --> D[Telemetry Dashboard]
-    E[Can Message Generator] --> D
-    F[Telemetry Desktop Dataviz] --> C
-    A --> G[LoRa Transmission]
-    B --> H[UART Output]
-    C --> I[Redis Pub/Sub]
+    E[Can Message Generator] --> A
+    B --> F[Telemetry Desktop Dataviz]
 ```
 
 ## Contributing

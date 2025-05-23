@@ -2,7 +2,7 @@
 
 This organization is intended to serve as:
 1. A storage location for data, scripts, and process documentation
-2. A more granular and accessible task tracking system to be used in conjunction with Notion.
+2. A more granular and accessible task tracking system to be used in conjunction with or to replace Notion.
    
 As a storage location, GitHub is more useful than Drive with respect to access - it is easy to control exactly what is allowed to be added, modified, or deleted, and it is easy to version control any of these document types as much as is necessary.
 
